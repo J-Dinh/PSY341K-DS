@@ -9,7 +9,7 @@ Data science is **_super_** cool.
 Data science is ***super*** cool.
 
 
-### Spring 2022 Schedule
+### Spring 2022 Schedule 💮
 | M | T | W | TH | F |
 | --- | --- | --- | --- | --- |
 | SDS324E | PSY341K-DS | SDS324E | PSY341K-DS | PSY364 |
