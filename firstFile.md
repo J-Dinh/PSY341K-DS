@@ -5,7 +5,7 @@ The file contains test and no code. The file has an extension .md which stands f
 Data science is **super** cool.
 Data science is *super* cool.
 Data science is ~~super~~ cool.
-Data science is ** **super__ cool.
+Data science is **_super_** cool.
 Data science is ***super*** cool.
 
 
